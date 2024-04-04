@@ -1,0 +1,15 @@
+C:\Users\SubaneshMurugan\OneDrive - Syncfusion\Desktop\HotelManageMent\obj\Debug\net7.0\HotelManageMent.csproj.AssemblyReference.cache
+C:\Users\SubaneshMurugan\OneDrive - Syncfusion\Desktop\HotelManageMent\obj\Debug\net7.0\HotelManageMent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SubaneshMurugan\OneDrive - Syncfusion\Desktop\HotelManageMent\obj\Debug\net7.0\HotelManageMent.AssemblyInfoInputs.cache
+C:\Users\SubaneshMurugan\OneDrive - Syncfusion\Desktop\HotelManageMent\obj\Debug\net7.0\HotelManageMent.AssemblyInfo.cs
+C:\Users\SubaneshMurugan\OneDrive - Syncfusion\Desktop\HotelManageMent\obj\Debug\net7.0\HotelManageMent.csproj.CoreCompileInputs.cache
+C:\Users\SubaneshMurugan\OneDrive - Syncfusion\Desktop\HotelManageMent\bin\Debug\net7.0\HotelManageMent.exe
+C:\Users\SubaneshMurugan\OneDrive - Syncfusion\Desktop\HotelManageMent\bin\Debug\net7.0\HotelManageMent.deps.json
+C:\Users\SubaneshMurugan\OneDrive - Syncfusion\Desktop\HotelManageMent\bin\Debug\net7.0\HotelManageMent.runtimeconfig.json
+C:\Users\SubaneshMurugan\OneDrive - Syncfusion\Desktop\HotelManageMent\bin\Debug\net7.0\HotelManageMent.dll
+C:\Users\SubaneshMurugan\OneDrive - Syncfusion\Desktop\HotelManageMent\bin\Debug\net7.0\HotelManageMent.pdb
+C:\Users\SubaneshMurugan\OneDrive - Syncfusion\Desktop\HotelManageMent\obj\Debug\net7.0\HotelManageMent.dll
+C:\Users\SubaneshMurugan\OneDrive - Syncfusion\Desktop\HotelManageMent\obj\Debug\net7.0\refint\HotelManageMent.dll
+C:\Users\SubaneshMurugan\OneDrive - Syncfusion\Desktop\HotelManageMent\obj\Debug\net7.0\HotelManageMent.pdb
+C:\Users\SubaneshMurugan\OneDrive - Syncfusion\Desktop\HotelManageMent\obj\Debug\net7.0\HotelManageMent.genruntimeconfig.cache
+C:\Users\SubaneshMurugan\OneDrive - Syncfusion\Desktop\HotelManageMent\obj\Debug\net7.0\ref\HotelManageMent.dll
